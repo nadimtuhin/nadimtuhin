@@ -1,10 +1,10 @@
 # Nadim Tuhin
 
-Frontend Tech Lead & Staff Engineer from Bangladesh. Building CLI tools and AI tooling in the open.
+Full Stack Engineer from Bangladesh. Building CLI tools and AI tooling in the open.
 
 ---
 
-12+ years shipping scalable frontend systems and developer tools. Led frontend architecture at Pathao serving 2M+ daily users. Currently Software Engineer at [Technovative Solutions](https://www.technovativesolutions.co.uk/) (UK). I write about DevOps, AI agents, and open source at [nadimtuhin.com](https://nadimtuhin.com). When I'm not at a keyboard, I'm on a bicycle.
+12+ years shipping full stack products — from React frontends and Node.js APIs to Kubernetes deployments and AI agent pipelines. Led engineering at [Pathao](https://pathao.com) serving 2M+ daily users. Currently Software Engineer at [Technovative Solutions](https://www.technovativesolutions.co.uk/) (UK). I write about DevOps, AI agents, and open source at [nadimtuhin.com](https://nadimtuhin.com). When I'm not at a keyboard, I'm on a bicycle.
 
 ## Experience
 
@@ -22,13 +22,12 @@ Frontend Tech Lead & Staff Engineer from Bangladesh. Building CLI tools and AI t
 | Layer | Technologies |
 |---|---|
 | Frontend | React 18 · Vue.js 2/3 · Next.js · Nuxt.js · TypeScript · Design Systems |
-| State | Redux Toolkit · Vuex · Pinia · Zustand · Context API |
-| Architecture | SSR · ISR · Micro-frontends · BFF · Clean Architecture · GDPR |
-| Backend | Node.js · Bun · Express.js · REST · GraphQL · Microservices |
+| Backend | Node.js · Bun · Express.js · Python · REST · GraphQL · BFF · Microservices |
+| Database | PostgreSQL · Redis · MongoDB |
 | DevOps | Docker · Kubernetes · GitHub Actions · GitLab CI/CD · nginx |
 | AI & Agents | Claude · MCP · AI Agents · Automation · n8n |
 | Testing | Jest · Cypress · Playwright |
-| Tools | Vite · Webpack · Bash · Git · Puppeteer |
+| Tools | Vite · Webpack · Bash · Puppeteer · Git |
 
 ## Featured Projects
 
