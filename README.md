@@ -1,4 +1,4 @@
-# Nadim Tuhin
+# Nadim Tuhin (Omar Faruque Tuhin)
 
 Full Stack Engineer from Bangladesh. Building CLI tools and AI tooling in the open.
 
