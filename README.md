@@ -10,7 +10,7 @@ Full Stack Engineer from Bangladesh. Building CLI tools and AI tooling in the op
 
 | Period | Role | Company |
 |---|---|---|
-| Nov 2025 – present | Tech Lead | [Technovative Solutions](https://www.technovativesolutions.co.uk/) (UK) |
+| Nov 2025 – present | Tech Lead | [Technovative Solutions](https://www.technovativesolutions.co.uk/) · [DigiProdPass](https://digiprodpass.com/) |
 | Sep 2018 – Nov 2025 | Tech Lead & Staff Software Engineer | [Pathao](https://pathao.com) |
 | Apr 2013 – Aug 2018 | Software Engineer → Backend Tech Lead | Various (Cookups, Gagagugu, ThemeXpert, The Software Engineers) |
 
