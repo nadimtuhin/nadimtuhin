@@ -39,4 +39,4 @@ Full Stack Engineer from Bangladesh. Building CLI tools and AI tooling in the op
 
 ## Links
 
-[Blog](https://nadimtuhin.com) · [Twitter](https://twitter.com/nadimtuhin) · [LinkedIn](https://www.linkedin.com/in/nadimtuhin) · [nadimtuhin@gmail.com](mailto:nadimtuhin@gmail.com)
+[Blog](https://nadimtuhin.com) · [Resume](https://nadimtuhin.com/resume.pdf) · [Twitter](https://twitter.com/nadimtuhin) · [LinkedIn](https://www.linkedin.com/in/nadimtuhin) · [nadimtuhin@gmail.com](mailto:nadimtuhin@gmail.com)
