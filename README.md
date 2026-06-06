@@ -11,16 +11,15 @@ I work at [Technovative Solutions](https://www.technovativesolutions.co.uk/) (UK
 | Project | Stars | Description |
 |---|---|---|
 | [claude-token-optimizer](https://github.com/nadimtuhin/claude-token-optimizer) | ★ 459 | Reusable setup prompts for Claude Code — 90% token savings |
-| [tax-calculator](https://github.com/nadimtuhin/tax-calculator) | ★ 20 | Bangladesh income tax calculator |
 | [devutils](https://github.com/nadimtuhin/devutils) | ★ 12 | Browser-based developer utilities, works offline |
+| [tax-calculator](https://github.com/nadimtuhin/tax-calculator) | ★ 20 | Bangladesh income tax calculator |
 | [claude-workflows](https://github.com/nadimtuhin/claude-workflows) | ★ 7 | Systematic workflow commands for Claude Code |
 | [ytranscript](https://github.com/nadimtuhin/ytranscript) | ★ 5 | YouTube transcript CLI built with Bun/TypeScript |
-| [pagedrop-cli](https://github.com/nadimtuhin/pagedrop-cli) | — | Upload HTML to pagedrop.io from the terminal |
+| [loopwork](https://github.com/nadimtuhin/loopwork) | ★ 1 | AI-powered task automation with pluggable backends |
 
 ## Tech
 
 TypeScript · JavaScript · Bun · Node.js · React · Python · Rust · Bash · Docker · Kubernetes
-
 
 ## Links
 
