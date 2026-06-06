@@ -10,7 +10,7 @@ Full Stack Engineer from Bangladesh. Building CLI tools and AI tooling in the op
 
 | Period | Role | Company |
 |---|---|---|
-| Nov 2025 – present | Software Engineer | [Technovative Solutions](https://www.technovativesolutions.co.uk/) (UK) |
+| Nov 2025 – present | Tech Lead | [Technovative Solutions](https://www.technovativesolutions.co.uk/) (UK) |
 | Sep 2018 – Nov 2025 | Tech Lead & Staff Software Engineer | [Pathao](https://pathao.com) |
 | May 2017 – Aug 2018 | Backend Tech Lead | Cookups Technologies |
 | Mar 2016 – Apr 2017 | Software Engineer | Gagagugu Games |
