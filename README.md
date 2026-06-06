@@ -4,7 +4,7 @@ Full Stack Engineer from Bangladesh. Building CLI tools and AI tooling in the op
 
 ---
 
-12+ years shipping full stack products — from React frontends and Node.js APIs to Kubernetes deployments and AI agent pipelines. Led engineering at [Pathao](https://pathao.com) serving 2M+ daily users. Currently Software Engineer at [Technovative Solutions](https://www.technovativesolutions.co.uk/) (UK). I write about DevOps, AI agents, and open source at [nadimtuhin.com](https://nadimtuhin.com). When I'm not at a keyboard, I'm on a bicycle.
+12+ years shipping full stack products — from React frontends and Node.js APIs to Kubernetes deployments and AI agent pipelines. Led engineering at [Pathao](https://pathao.com) serving 2M+ daily users. Currently Technical Lead at [Technovative Solutions](https://www.technovativesolutions.co.uk/) (UK). I write about DevOps, AI agents, and open source at [nadimtuhin.com](https://nadimtuhin.com). When I'm not at a keyboard, I'm on a bicycle.
 
 ## Experience
 
