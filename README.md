@@ -23,7 +23,7 @@ TypeScript · JavaScript · Bun · Node.js · React · Python · Rust · Bash ·
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadimtuhin&show_icons=true&hide_border=true&theme=default)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nadimtuhin&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## Links
 
