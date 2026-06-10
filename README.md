@@ -1,12 +1,12 @@
 # Nadim Tuhin (Omar Faruque Tuhin)
 
-Full Stack Engineer from Bangladesh. Building CLI tools and AI tooling in the open.
+Staff-level engineer. I build CLI tools, API infrastructure, and AI agent systems.
 
 ---
 
-12+ years shipping full stack products — from React frontends and Node.js APIs to Kubernetes deployments and AI agent pipelines. Led engineering at [Pathao](https://pathao.com) serving 2M+ daily users. Currently Technical Lead at [Technovative Solutions](https://www.technovativesolutions.co.uk/) (UK). I write about DevOps, AI agents, and open source at [nadimtuhin.com](https://nadimtuhin.com). When I'm not at a keyboard, I'm on a bicycle.
+12+ years shipping production systems — from microservices at [Pathao](https://pathao.com) (2M+ daily users) to open-source developer tooling. I care about architecture, reliability, and making complex systems simple. Currently Technical Lead at [Technovative Solutions](https://www.technovativesolutions.co.uk/) (UK). Writing about DevOps, AI agents, and open source at [nadimtuhin.com](https://nadimtuhin.com). When I'm not at a keyboard, I'm on a bicycle.
 
-> **Open to:** Senior / Staff Full-Stack roles · Tech Lead positions · Remote or hybrid
+> **Open to:** Staff / Tech Lead roles · Remote or hybrid
 
 ## Experience
 
@@ -21,7 +21,7 @@ Full Stack Engineer from Bangladesh. Building CLI tools and AI tooling in the op
 | Layer | Technologies |
 |---|---|
 | Frontend | React 18 · Vue.js 2/3 · Next.js · Nuxt.js · TypeScript · Design Systems |
-| Backend | Node.js · Bun · Express.js · Python · REST · GraphQL · BFF · Microservices |
+| Backend | Node.js · Bun · Rust · Express.js · Python · REST · GraphQL · BFF · Microservices |
 | Database | PostgreSQL · Redis · MongoDB |
 | DevOps | Docker · Kubernetes · GitHub Actions · GitLab CI/CD · nginx |
 | AI & Agents | Claude · MCP · AI Agents · Automation · n8n |
@@ -30,13 +30,13 @@ Full Stack Engineer from Bangladesh. Building CLI tools and AI tooling in the op
 
 ## Featured Projects
 
-| Project | Stars | Description |
+| Project | What it does | Stack |
 |---|---|---|
-| [claude-token-optimizer](https://github.com/nadimtuhin/claude-token-optimizer) | ★ 459 | Reusable setup prompts for Claude Code — 90% token savings |
-| [devutils](https://github.com/nadimtuhin/devutils) | ★ 12 | Privacy-first browser developer utilities — works offline |
-| [tax-calculator](https://github.com/nadimtuhin/tax-calculator) | ★ 20 | Bangladesh income tax calculator |
-| [claude-workflows](https://github.com/nadimtuhin/claude-workflows) | ★ 7 | Systematic workflow commands for Claude Code |
-| [ytranscript](https://github.com/nadimtuhin/ytranscript) | ★ 5 | YouTube transcript CLI built with Bun/TypeScript |
+| [claude-token-optimizer](https://github.com/nadimtuhin/claude-token-optimizer) ★464 | Cuts Claude Code token usage by 90% through structured docs | JavaScript · npm |
+| [gws CLI](https://github.com/nadimtuhin/cli) | One CLI for all Google Workspace APIs — runs AI agents too | Rust · TypeScript · CI/CD |
+| [loopwork](https://github.com/nadimtuhin/loopwork) | AI task automation framework with plugin architecture and resilience | TypeScript · Bun · Monorepo |
+| [express-simple-proxy](https://github.com/nadimtuhin/express-simple-proxy) ★4 | TypeScript proxy middleware — 93% coverage, 183 tests | TypeScript · Jest · Trivy |
+| [ytranscript](https://github.com/nadimtuhin/ytranscript) ★5 | YouTube transcript CLI with bulk processing and MCP server | TypeScript · Bun · CI/CD |
 
 ## Links
 
