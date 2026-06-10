@@ -33,7 +33,7 @@ Staff-level engineer. I build CLI tools, API infrastructure, and AI agent system
 | Project | What it does | Stack |
 |---|---|---|
 | [claude-token-optimizer](https://github.com/nadimtuhin/claude-token-optimizer) ★464 | Cuts Claude Code token usage by 90% through structured docs | JavaScript · npm |
-| [gws CLI](https://github.com/nadimtuhin/cli) | One CLI for all Google Workspace APIs — runs AI agents too | Rust · TypeScript · CI/CD |
+| [devutils](https://github.com/nadimtuhin/devutils) ★12 | Privacy-first browser developer utilities — works offline | TypeScript · React |
 | [loopwork](https://github.com/nadimtuhin/loopwork) | AI task automation framework with plugin architecture and resilience | TypeScript · Bun · Monorepo |
 | [express-simple-proxy](https://github.com/nadimtuhin/express-simple-proxy) ★4 | TypeScript proxy middleware — 93% coverage, 183 tests | TypeScript · Jest · Trivy |
 | [ytranscript](https://github.com/nadimtuhin/ytranscript) ★5 | YouTube transcript CLI with bulk processing and MCP server | TypeScript · Bun · CI/CD |
