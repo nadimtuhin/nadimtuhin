@@ -6,6 +6,8 @@ Full Stack Engineer from Bangladesh. Building CLI tools and AI tooling in the op
 
 12+ years shipping full stack products — from React frontends and Node.js APIs to Kubernetes deployments and AI agent pipelines. Led engineering at [Pathao](https://pathao.com) serving 2M+ daily users. Currently Technical Lead at [Technovative Solutions](https://www.technovativesolutions.co.uk/) (UK). I write about DevOps, AI agents, and open source at [nadimtuhin.com](https://nadimtuhin.com). When I'm not at a keyboard, I'm on a bicycle.
 
+> **Open to:** Senior / Staff Full-Stack roles · Tech Lead positions · Remote or hybrid
+
 ## Experience
 
 | Period | Role | Company |
@@ -35,7 +37,6 @@ Full Stack Engineer from Bangladesh. Building CLI tools and AI tooling in the op
 | [tax-calculator](https://github.com/nadimtuhin/tax-calculator) | ★ 20 | Bangladesh income tax calculator |
 | [claude-workflows](https://github.com/nadimtuhin/claude-workflows) | ★ 7 | Systematic workflow commands for Claude Code |
 | [ytranscript](https://github.com/nadimtuhin/ytranscript) | ★ 5 | YouTube transcript CLI built with Bun/TypeScript |
-| [loopwork](https://github.com/nadimtuhin/loopwork) | ★ 1 | AI-powered task automation with pluggable backends |
 
 ## Links
 
