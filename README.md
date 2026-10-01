@@ -4,7 +4,7 @@ Staff-level engineer. I build CLI tools, API infrastructure, and AI agent system
 
 ---
 
-12+ years shipping production systems — from microservices at [Pathao](https://pathao.com) (2M+ daily users) to open-source developer tooling. I care about architecture, reliability, and making complex systems simple. Currently Technical Lead at [Technovative Solutions](https://www.technovativesolutions.co.uk/) (UK). Writing about DevOps, AI agents, and open source at [nadimtuhin.com](https://nadimtuhin.com). When I'm not at a keyboard, I'm on a bicycle.
+12+ years shipping production systems — from microservices at [Pathao](https://pathao.com) (2M+ daily users) to open-source developer tooling. I care about architecture, reliability, and making complex systems simple. Former Technical Lead at [Technovative Solutions](https://www.technovativesolutions.co.uk/) (UK). Writing about DevOps, AI agents, and open source at [nadimtuhin.com](https://nadimtuhin.com). When I'm not at a keyboard, I'm on a bicycle.
 
 > **Open to:** Staff / Tech Lead roles · Remote or hybrid
 
@@ -12,7 +12,7 @@ Staff-level engineer. I build CLI tools, API infrastructure, and AI agent system
 
 | Period | Role | Company |
 |---|---|---|
-| Nov 2025 – present | Tech Lead | [Technovative Solutions](https://www.technovativesolutions.co.uk/) · [DigiProdPass](https://digiprodpass.com/) |
+| Nov 2025 – Sep 2026 | Tech Lead | [Technovative Solutions](https://www.technovativesolutions.co.uk/) · [DigiProdPass](https://digiprodpass.com/) |
 | Sep 2018 – Nov 2025 | Tech Lead & Staff Software Engineer | [Pathao](https://pathao.com) |
 | Apr 2013 – Aug 2018 | Software Engineer → Backend Tech Lead | Various (Cookups, Gagagugu, ThemeXpert, The Software Engineers) |
 
