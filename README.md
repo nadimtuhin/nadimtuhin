@@ -4,7 +4,7 @@ Staff-level engineer. I build CLI tools, API infrastructure, and AI agent system
 
 ---
 
-12+ years shipping production systems — from microservices at [Pathao](https://pathao.com) (2M+ daily users) to open-source developer tooling. I care about architecture, reliability, and making complex systems simple. Former Technical Lead at [Technovative Solutions](https://www.technovativesolutions.co.uk/) (UK). Writing about DevOps, AI agents, and open source at [nadimtuhin.com](https://nadimtuhin.com). When I'm not at a keyboard, I'm on a bicycle.
+14+ years shipping production systems — from microservices at [Pathao](https://pathao.com) (2M+ daily users) to open-source developer tooling. I care about architecture, reliability, and making complex systems simple. Former Technical Lead at [Technovative Solutions](https://www.technovativesolutions.co.uk/) (UK). Writing about DevOps, AI agents, and open source at [nadimtuhin.com](https://nadimtuhin.com). When I'm not at a keyboard, I'm on a bicycle.
 
 > **Open to:** Staff / Tech Lead roles · Remote or hybrid
 
@@ -40,4 +40,4 @@ Staff-level engineer. I build CLI tools, API infrastructure, and AI agent system
 
 ## Links
 
-[Blog](https://nadimtuhin.com) · [Resume](https://nadimtuhin.com/resume.pdf) · [Twitter](https://twitter.com/nadimtuhin) · [LinkedIn](https://www.linkedin.com/in/nadimtuhin) · [nadimtuhin@gmail.com](mailto:nadimtuhin@gmail.com)
+[Blog](https://nadimtuhin.com) · [Resume](https://nadimtuhin.com/resume.pdf) · [Calendly](https://calendly.com/nadimtuhin/30min) · [Twitter](https://twitter.com/nadimtuhin) · [LinkedIn](https://www.linkedin.com/in/nadimtuhin) · [nadimtuhin@gmail.com](mailto:nadimtuhin@gmail.com)
