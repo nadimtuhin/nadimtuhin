@@ -1,10 +1,10 @@
 # Nadim Tuhin (Omar Faruque Tuhin)
 
-Staff-level engineer. I build browser automation, AI agent tooling, and the backend systems underneath them.
+Software engineer, 10+ years. I build browser automation, AI agent tooling, and the backend systems underneath them.
 
-14+ years shipping production systems. Seven of them at [Pathao](https://pathao.com) (2M+ daily users, 100K+ daily orders), where I led platform work, mentored 8 engineers, and pushed the move off Facebook Workplace Chat to self-hosted Mattermost, which cut about $10K a month. Most recently Tech Lead at [Technovative Solutions](https://www.technovativesolutions.co.uk/) (UK). I write at [nadimtuhin.com](https://nadimtuhin.com). Off the keyboard, I'm on a bicycle.
+Seven years at [Pathao](https://pathao.com) (2M+ daily users, 100K+ daily orders), where I led platform work, mentored 8 engineers, and pushed the move off Facebook Workplace Chat to self-hosted Mattermost, which cut about $10K a month. Most recently Tech Lead at [Technovative Solutions](https://www.technovativesolutions.co.uk/) (UK). I write at [nadimtuhin.com](https://nadimtuhin.com). Off the keyboard, I'm on a bicycle.
 
-> **Open to:** Staff / Tech Lead roles · Remote, with US, EU or Canada overlap
+> **Open to:** Senior, Staff, Lead and Full Stack roles · Remote or hybrid
 
 ## What I'm working on
 
