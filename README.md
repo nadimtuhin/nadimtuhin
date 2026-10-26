@@ -1,13 +1,13 @@
-<img src="assets/header.jpg" alt="Nadim Tuhin. Full stack engineer, 10+ years. Product engineer, prototype to production." width="100%">
+<img src="assets/header.jpg" alt="Nadim Tuhin. Full Stack Tech Lead, 10+ years. I build products and help engineers ship them." width="100%">
 
 <h1>Nadim Tuhin <sub><sup>Omar Faruque Tuhin</sup></sub></h1>
 
-**Full stack product engineer, 10+ years.** I take products from prototype to people actually using them: Next.js and TypeScript interfaces, the APIs behind them, and the deploys in between.
+**Full Stack Tech Lead, 10+ years.** I build products and help engineers ship them.
 
-Seven years at [Pathao](https://pathao.com) (2M+ daily users, 100K+ daily orders), where I led platform work, mentored 8 engineers, and pushed the move off Facebook Workplace Chat to self-hosted Mattermost, which cut about **$10K a month**. Most recently Tech Lead at [Technovative Solutions](https://www.technovativesolutions.co.uk/) (UK), shipping EU compliance products. I write at [nadimtuhin.com](https://nadimtuhin.com).
+Seven years at [Pathao](https://pathao.com) (2M+ daily users, 100K+ daily orders), where I led platform work, mentored interns into working engineers, and proposed the move off Facebook Workplace Chat to self-hosted Mattermost that the team shipped, saving roughly $10K monthly. Most recently Tech Lead at [Technovative Solutions](https://www.technovativesolutions.co.uk/) (UK), shipping EU compliance products. I write at [nadimtuhin.com](https://nadimtuhin.com).
 
 > [!NOTE]
-> **Open to** Full Stack, Staff and Product Engineer roles. Remote, US time zone overlap. [Book a 30 min call](https://calendly.com/nadimtuhin/30min)
+> **Open to** Full Stack Tech Lead, Staff, and Full Stack roles. Remote with US time zone overlap, or on-site in Dhaka. [Book a 30 min call](https://calendly.com/nadimtuhin/30min)
 
 <br>
 
@@ -83,9 +83,10 @@ Most online JWT decoders send what you paste to a server. These 35+ dev tools ru
 
 <img src="assets/h-stack.png" alt="Stack" width="100%">
 
-**Product & full stack** &nbsp; `React` `Next.js` `TypeScript` `Node.js` `Bun` `Python`<br>
-**Data** &nbsp; `PostgreSQL` `Redis` `MongoDB`<br>
-**Also** &nbsp; `Go` `GraphQL` `Vue.js` `Tailwind`<br> &nbsp; `PostgreSQL` `Redis` `MongoDB`<br>
+**Languages** &nbsp; `TypeScript` `JavaScript` `Go` `Python` `SQL`<br>
+**UI** &nbsp; `React` `Next.js`<br>
+**Backend** &nbsp; `Node.js` `Bun`<br>
+**DB** &nbsp; `PostgreSQL` `Redis` `MongoDB`<br>
 **Agents & automation** &nbsp; `Playwright` `Puppeteer` `Chrome DevTools Protocol` `MCP` `Claude`<br>
 **Infra** &nbsp; `Docker` `Kubernetes` `Cloudflare Workers` `GitHub Actions`
 
